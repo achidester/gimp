@@ -88,12 +88,12 @@ ___
   <br />
 
 Have fun,
-\- Spencer Kimball
-\-  Peter Mattis
-\- Federico Mena
-\- Manish Singh
-\- Sven Neumann
-\- Michael Natterer
-\- Dave Neary
-\- Martin Nordholts
-\- Jehan
+\-  Spencer Kimball  <br />
+\-  Peter Mattis  <br />
+\-  Federico Mena  <br />
+\-  Manish Singh  <br />
+\-  Sven Neumann  <br />
+\-  Michael Natterer  <br />
+\-  Dave Neary  <br />
+\-  Martin Nordholts  <br />
+\-  Jehan  <br />
