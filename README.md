@@ -20,11 +20,17 @@
 > 
 >If you want to hack on GIMP, please read the file devel-docs/README.md.
 >For detailed installation instructions, see the file INSTALL.
+## 1. Web Resources
+<details open>
+<summary>see more </summary>
+<b><u>GIMP's home page:</u><b>
+* https://www.gimp.org/
 
-<details>
-<summary>title of the content (*not* support **markdown** syntax ~~hmm~~)</summary>
+> Please be sure to visit this site for information, documentation,
+tutorials, news, etc.  All things GIMP-ish are available from there.
 
-content body (support **markdown** syntax ~~hmm~~)
+<b><u>Latest version of GIMP:</u><b>
+* https://www.gimp.org/downloads/
 </details>
 
 ## 1. Web Resources
