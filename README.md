@@ -1,4 +1,5 @@
 
+
 # GNU Image Manipulation Program
 #### 2.99 Development Branch
 
@@ -20,7 +21,11 @@
 >If you want to hack on GIMP, please read the file devel-docs/README.md.
 >For detailed installation instructions, see the file INSTALL.
 
+<details>
+<summary>title of the content (*not* support **markdown** syntax ~~hmm~~)</summary>
 
+content body (support **markdown** syntax ~~hmm~~)
+</details>
 
 ## 1. Web Resources
 <b><u>GIMP's home page:</u><b>
@@ -36,7 +41,7 @@ tutorials, news, etc.  All things GIMP-ish are available from there.
 ## 2. Contributing
 <b><u>GIMP source code can be found at:</u><b>
 
-* GitLab: https://gitlab.gnome.org/GNOME/gimp/
+* GitLab:   https://gitlab.gnome.org/GNOME/gimp/
 * GitHub: https://github.com/GNOME/gimp
 
 <b><u>Resources for contributors:</u><b>
@@ -51,54 +56,54 @@ In particular, you may want to look in the "Core Development" section.
 
 
 ## 3. Discussion Channels
->We have several discussion channels dedicated to GIMP user and
-development discussion. 
 
-There is more info at:
+ <b><u>Discussion channels dedicated to GIMP user and development discussion: </b></u>
 https://www.gimp.org/discuss.html
 
-Links to several archives of the mailing lists are included in that page.
+Several mailing lists archives are included in that page.
+>
+><b>Including: </b>
+>* Gimp-user-list mailing list dedicated to user problems, hints and tips, discussion of cool effects, etc.  
+>* Gimp-developer-list is oriented to GIMP core and plug-in developers.  
+>* Gimp-gui-list is for discussing about GIMP interface to improve user experience. 
+>
+> Other discussion channels can be listed on this page when they are moderated by a team member, such as forums.
 
-Gimp-user-list is a mailing list dedicated to user problems, hints and
-tips, discussion of cool effects, etc.  Gimp-developer-list is oriented
-to GIMP core and plug-in developers.  Gimp-gui-list is for discussing
-about GIMP interface to improve user experience. Most people will only
-want to be subscribed to gimp-user-list. If you want to help develop
-GIMP, the gimp-developer mailing list is a good starting point; if you
-want to help with GUI design, the gimp-gui list is where you want to
-subscribe.
+ <b><u>IRC channels devoted to GIMP. </u></b>
+On <b>GIMPNet </b> (a private free software oriented network) there is #gimp. 
+Many of the developers hang out there. 
 
-Other discussion channels can be listed on this page when they are
-moderated by a team member, such as forums.
-
-Finally, for the real junkies, there are IRC channels devoted to GIMP.
-On GIMPNet (a private free software oriented network) there is #gimp.
-Many of the developers hang out there. Some of the GIMPNet servers are:
-
+<b><u>Some GIMPNet servers: </u></b>
+<center>
+	
 	irc.gimp.org:6667
+	
 	irc.us.gimp.org:6667
+	
 	irc.eu.gimp.org:6667
+	
+</center>
 
 
-## 4. Customizing
-The look of GIMP's interface can be customized like any other GTK+ app
-by editing files in `${XDG_CONFIG_HOME}/gtk-3.0/` (settings.ini and
-gtk.css in particular) or by using "themes" (ready-made customizations).
-Additionally, GIMP reads `${XDG_CONFIG_HOME}/GIMP/2.99/gimp.css` so you
-can have settings that only apply to GIMP.
+## 4. Customizing GIMP
+The look of GIMP's interface can be customized like any other GTK+ app.
 
-You can also manually change the keybindings to any of your choice by
-editing: `${XDG_CONFIG_HOME}/GIMP/2.99/shortcutsrc`.
+Editing files in `${XDG_CONFIG_HOME}/gtk-3.0/` (settings.ini and gtk.css in particular) 
+or by using "themes" (ready-made customizations).
+
+Additionally, GIMP reads `${XDG_CONFIG_HOME}/GIMP/2.99/gimp.css` so you can have settings that only apply to GIMP.
+
+You can also manually change the keybindings to any of your choice by editing: `${XDG_CONFIG_HOME}/GIMP/2.99/shortcutsrc`.
 
 
 Have fun,
 
-  Spencer Kimball
-  Peter Mattis
-  Federico Mena
-  Manish Singh
-  Sven Neumann
-  Michael Natterer
-  Dave Neary
-  Martin Nordholts
-  Jehan
+Spencer Kimball
+Peter Mattis
+Federico Mena
+Manish Singh
+Sven Neumann
+Michael Natterer
+Dave Neary
+Martin Nordholts
+Jehan
