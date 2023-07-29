@@ -43,7 +43,7 @@ tutorials, news, etc.  All things GIMP-ish are available from there.
 >* Setting up your developer environment: https://developer.gimp.org/core/setup/
 >* GIMP Coding Style: https://developer.gimp.org/core/coding_style/
 >* Submit your first patch: https://developer.gimp.org/core/submit-patch/
-  <br />
+  
 ---
 
 ## 3. Discussion Channels
