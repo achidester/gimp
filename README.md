@@ -87,7 +87,7 @@ ___
 ___
   <br />
 
-Have fun,
+Have fun, <br />
 \-  Spencer Kimball  <br />
 \-  Peter Mattis  <br />
 \-  Federico Mena  <br />
